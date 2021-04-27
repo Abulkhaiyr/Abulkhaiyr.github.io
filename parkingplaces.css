@@ -1,0 +1,15 @@
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+    .reject {
+        display: block;
+        text-align: center;
+    }
+    
+    .pps {
+        font-size: 20px;
+    }
+    
+    body,
+    html {
+        background-color: rgb(206, 197, 146);
+        font-family: 'Playfair Display', serif;
+    }
